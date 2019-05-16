@@ -1,0 +1,1 @@
+This repo is to have a fully functioning card project for AMA's
