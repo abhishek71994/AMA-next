@@ -1,0 +1,29 @@
+{
+  "name": "ama-next",
+  "version": "1.0.0",
+  "description": "This repo is to have a fully functioning card project for AMA's",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek71994/AMA-next.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek71994/AMA-next/issues"
+  },
+  "homepage": "https://github.com/abhishek71994/AMA-next#readme"
+}
